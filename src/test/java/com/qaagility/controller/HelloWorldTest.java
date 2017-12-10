@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import static org.junit.Assert.assertEquals;
 import com.qaagility.controller.*;
 
-public class HellowWorldTest
+public class HelloWorldTest
 {
 
     CalcMultiply objCMT = new CalcMultiply();
